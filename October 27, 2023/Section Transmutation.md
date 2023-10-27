@@ -29,7 +29,8 @@ For Aligned Governance Strategy and Aligned Scope Proposals to be valid, they mu
 
 AVCs must always be able to articulate their Strategic Perspective in their AVC Profile in a simple enough way that EGF users can reasonably understand what delegating their votes to the strategy of the AVC means. This is in terms of the Aligned Governance Strategy and the Aligned Scope Proposals that the AVC will create.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.1.5.2": {
@@ -45,7 +46,7 @@ AVCs must always be able to articulate their Strategic Perspective in their AVC 
         "linked_from": []
     }
 }
-
+```
 
 ## Example 2
 ### Old Atlas version:
@@ -62,7 +63,8 @@ In cases of mild “slippery slope” breaches, a warning may be given and recor
 
 In severe cases that can be described as Governance Attacks, in addition to being derecognized, the Alignment Conserver is also stripped of all reputation recognized in reputation systems of the Scopes.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.1.4.4": {
@@ -78,7 +80,7 @@ In severe cases that can be described as Governance Attacks, in addition to bein
         "linked_from": []
     }
 }
-
+```
 
 ## Example 3
 ### Old Atlas version:
@@ -113,7 +115,8 @@ Native ZK rollups built into the protocol.
 
 Neural Tokenomics and core governance processes built natively into the NewChain protocol. Specified in more detail in *4.3*.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.3.2.1": {
@@ -129,7 +132,7 @@ Neural Tokenomics and core governance processes built natively into the NewChain
         "linked_from": []
     }
 }
-
+```
 
 ## Example 4
 ### Old Atlas version:
@@ -138,7 +141,8 @@ Neural Tokenomics and core governance processes built natively into the NewChain
 
 NewChain implements as native protocol modules all of the internal governance mechanics, incubation mechanics and tokenomics of MakerDAO and SubDAOs. PRO3 must cover the required preparatory and development work relevant for these concepts to enable Maker Governance to activate NewChain and reach the Endgame State.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.3.3": {
@@ -154,7 +158,7 @@ NewChain implements as native protocol modules all of the internal governance me
         "linked_from": []
     }
 }
-
+```
 
 ## Example 5
 ### Old Atlas version:
@@ -179,7 +183,8 @@ This mode of farming gives the user tokens that are lockstaked in the tokens nat
 
 This mode of farming embeds tokens into the users lockstaked NFT that is lockstaked into the tokens native lockstaking engine.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.3.3.6": {
@@ -195,7 +200,7 @@ This mode of farming embeds tokens into the users lockstaked NFT that is locksta
         "linked_from": []
     }
 }
-
+```
 
 ## Example 6
 ### Old Atlas version:
@@ -216,7 +221,8 @@ When lockstaked the AllocatorDAO tokens farm the AllocatorDAOs MiniDAO tokens. T
 
 The Allocator Lockstake Engine has an exit fee of 25%, when AllocatorDAO tokens exit the Allocator Lockstake Engine 25% of the tokens are transferred to a yield boost pool that provide self-farming farming for the Lockstake Engine users by transferring 1% of its contents per day as self-farming directly embedded into the Lockstaked NFTs of the Allocator Lockstake Engine users.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.3.3.9": {
@@ -232,7 +238,7 @@ The Allocator Lockstake Engine has an exit fee of 25%, when AllocatorDAO tokens 
         "linked_from": []
     }
 }
-
+```
 
 ## Example 7
 ### Old Atlas version:
@@ -293,7 +299,8 @@ The permanent emissions of AllocatorDAOs are a total of 10% tokens emitted per y
 
 0.25% of the total supply is emitted per year for the Purpose System.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.3.3.12": {
@@ -309,7 +316,7 @@ The permanent emissions of AllocatorDAOs are a total of 10% tokens emitted per y
         "linked_from": []
     }
 }
-
+```
 
 ## Example 8
 ### Old Atlas version:
@@ -322,7 +329,8 @@ The Budget System is a protocol module that enables token holders to set up budg
 
 When multiple FacilitatorDAOs have assigned Responsibility for the same Scope, their control of its fixed budgets are split in half. Additionally, each FacilitatorDAOs budget access can be increased through the Budget Allocation System, which will increase the accessible budget only for the specific FacilitatorDAO that is receiving Allocated Budget.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.3.3.19": {
@@ -338,7 +346,7 @@ When multiple FacilitatorDAOs have assigned Responsibility for the same Scope, t
         "linked_from": []
     }
 }
-
+```
 
 ## Example 9
 ### Old Atlas version:
@@ -351,7 +359,8 @@ The Trigger Mechanism is a technically isolated smart contract on the target cha
 
 When using the Trigger Mechanism, the MKR holders become vulnerable to slashing in case they abuse the power to attack the system with no legitimate reason.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.3.4.2": {
@@ -367,7 +376,7 @@ When using the Trigger Mechanism, the MKR holders become vulnerable to slashing 
         "linked_from": []
     }
 }
-
+```
 
 ## Example 10
 ### Old Atlas version:
@@ -380,7 +389,8 @@ Arranged Structures are special legal structures set up by Ecosystem Actors to s
 
 Arranged Structures must have an AllocatorDAO owner. The owner assigns instructions to the Arranged Structure on behalf of MakerDAO, and determines if and how other AllocatorDAOs can access the Conduit of the Arranged Structure.
 
-### New Generation Atlas Version:
+### New Generation Atlas Version: 
+```json
 
 {
     "A.4.5.1": {
@@ -396,3 +406,4 @@ Arranged Structures must have an AllocatorDAO owner. The owner assigns instructi
         "linked_from": []
     }
 }
+```
