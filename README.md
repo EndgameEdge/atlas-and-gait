@@ -1,4 +1,4 @@
-# Atlas and Gait
+# Atlas and GAIT
 
 ## Meeting: October 27, 2023
 
