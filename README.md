@@ -1,8 +1,6 @@
 # Atlas and Gait
 
-# atlas-and-gait Contents
-
-## Folder: October 27, 2023
+## Meeting: October 27, 2023
 
 - [Element Analysis - A.1.4.2](./October%2027,%202023/Element%20Analysis%20-%20A.1.4.2.md)
 - [Element Analysis - A.1.5.8](./October%2027,%202023/Element%20Analysis%20-%20A.1.5.8.md)
