@@ -6,3 +6,13 @@
 - [Element Analysis - A.1.5.8](./October%2027,%202023/Element%20Analysis%20-%20A.1.5.8.md)
 - [FacilitatorDAO Action Examples - A.1.4.2](./October%2027,%202023/FacilitatorDAO%20Action%20Examples%20-%20A.1.4.2.md)
 - [Section Transmutation](./October%2027,%202023/Section%20Transmutation.md)
+
+## Call: November 3, 2023
+
+- Element Analyses - A.1.5.8
+  - json
+  - Reader-friendly version
+- FacilitatorDAO Action Examples - A.1.4.2
+  - json
+  - Reader-friendly version
+- Section Transmutations
