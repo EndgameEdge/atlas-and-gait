@@ -1,6 +1,6 @@
 # Element Analyses - A.1.5.8
 
-*November 3 - added #4 & 5*
+***November 3 - added #4 & 5***
 
 ```
 Guidelines:
@@ -19,7 +19,7 @@ Make the implicit, explicit.
 
 
 
-## #1
+## #1 (2023-10-27)
 
 ### Target Document - A.1.5.8
 
@@ -33,7 +33,7 @@ Make the implicit, explicit.
 
 ___
 
-## #2
+## #2 (2023-10-27)
 
 ### Target Document - A.1.5.8
 
@@ -49,7 +49,7 @@ ___
 
 
 
-## #3
+## #3 (2023-10-27)
 
 ### Target Document - A.1.5.8
 
@@ -61,7 +61,7 @@ ___
 
 ___
 
-## #4
+## #4 (2023-11-01)
 
 ### Target Document - A.1.5.8
 
@@ -81,7 +81,7 @@ The Element and its Target Document are a significant component of the Atlas' de
 
 ___
 
-## #5
+## #5 (2023-11-01)
 
 ### Target Document - A.1.5.8
 

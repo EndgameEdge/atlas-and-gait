@@ -1,10 +1,10 @@
 # FacilitatorDAO Action Example - A.1.4.2
 
-*November 3: added #4 & 5* 
+***November 3: added #4 & 5*** 
 
 > "An AC can assume one of four roles: Aligned Voter Committee (AVC) Member, Aligned Delegate (AD), Facilitator, and Budget Allocator (BA). ACs may only be **operationally active** in a single AC role and may not simultaneously assume multiple AC roles or **other ecosystem roles such as Ecosystem Actors**. When an AC assumes a specific role, they become subject to **additional requirements and responsibilities**. Breaching these role-specific requirements and responsibilities is misalignment equivalent to breaching the general AC requirements."
 
-## #1
+## #1 (2023-10-27)
 
 **Input**: An Entity currently occupies the role of a Facilitator. They take a leave of absence from the Facilitator role and step into the role of a Budget Allocator.  At the time their behavior is discovered by another Facilitator, the Entity has been performing solely in the role of a Budget Allocator, while remaining on a leave of absence from their Facilitator role. 
 
@@ -18,7 +18,7 @@ ___
 
 
 
-## #2
+## #2 (2023-10-27)
 
 **Input:** An Entity currently occupies the role of an Aligned Delegate. They then apply for, and secure, the role of a Budget Allocator. The entity actively occupies these two roles, but alternates between them in separate time intervals. A bounty hunter reports Entity's behavior to FacilitatorDAO.
 
@@ -34,7 +34,7 @@ ___
 
 
 
-## #3
+## #3 (2023-10-27)
 
 **Input:** An Entity currently occupies the role of an Aligned Delegate. It is a good month if Entity manages to make it to one AVC Subcommittee Meeting. Entity's voting metrics have been consistently uneven; and their "communication" explaining their votes has always been a terse "Because I said so." Unsurprisingly, Entity is not a ranked AD and therefore, not paid as an Alignment Conserver. Entity applies for, and secures, the part-time role of an Admin Support Staff for a Stability Scope Ecosystem Actor. Entity continues to operate as an Aligned Delegate, though in the uneven fashion as before. A bounty hunter reports Entity's behavior to FacilitatorDAO.
 
@@ -50,7 +50,7 @@ ___
 
 
 
-## #4
+## #4 (2023-11-03)
 
 **Input:** In Q1 and Q2 of 2024, Entity served as an AVC Member and earned the maximum possible AVC Participation Rewards. In Q3 of 2024, Entity missed most of the AVC Subcommittee Meetings and did not co-author the AVC Position Documents. As a result, Entity did not receive any AVC Participation Rewards in the Q3. This notwithstanding, Entity remained in frequent contact with the AVC Creator; records showed the two interacted via Discord DM and public channels at least twice weekly to discuss NEWDAO Governance and the AVC's work. In some of their communications, Entity gave the AVC Creator feedback on possible modifications to Adaptive Documents concerning the Protocol Scope.\n 
 
@@ -80,7 +80,7 @@ Finally, the FacilitatorDAO finds persuasive Entity's argument that they had no 
 
 ___
 
-## #5
+## #5 (2023-11-03)
 
 **Input:** In Q1 and Q2 of 2024, Entity served as an AVC Member and earned the maximum possible AVC Participation Rewards. In Q3 of 2024, Entity missed most of the AVC Subcommittee Meetings and did not co-author the AVC Position Documents. As a result, Entity did not receive any AVC Participation Rewards in the Q3. This notwithstanding, Entity remained in frequent contact with the AVC Creator; records showed the two interacted via Discord DM and public channels at least twice weekly to discuss NEWDAO Governance and the AVC's work. In some of their communications, Entity gave the AVC Creator feedback on possible modifications to Adaptive Documents concerning the Protocol Scope.\n 
 
