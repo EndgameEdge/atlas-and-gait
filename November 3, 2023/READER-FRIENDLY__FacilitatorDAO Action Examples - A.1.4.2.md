@@ -50,7 +50,7 @@ ___
 
 
 
-## #4 (2023-11-03)
+## #4 (2023-11-03) - *SAME INPUT & OUTPUT AS #5*
 
 **Input:** In Q1 and Q2 of 2024, Entity served as an AVC Member and earned the maximum possible AVC Participation Rewards. In Q3 of 2024, Entity missed most of the AVC Subcommittee Meetings and did not co-author the AVC Position Documents. As a result, Entity did not receive any AVC Participation Rewards in the Q3. This notwithstanding, Entity remained in frequent contact with the AVC Creator; records showed the two interacted via Discord DM and public channels at least twice weekly to discuss NEWDAO Governance and the AVC's work. In some of their communications, Entity gave the AVC Creator feedback on possible modifications to Adaptive Documents concerning the Protocol Scope.\n 
 
@@ -80,7 +80,7 @@ Finally, the FacilitatorDAO finds persuasive Entity's argument that they had no 
 
 ___
 
-## #5 (2023-11-03)
+## #5 (2023-11-03) - *SAME INPUT & OUTPUT AS #4*
 
 **Input:** In Q1 and Q2 of 2024, Entity served as an AVC Member and earned the maximum possible AVC Participation Rewards. In Q3 of 2024, Entity missed most of the AVC Subcommittee Meetings and did not co-author the AVC Position Documents. As a result, Entity did not receive any AVC Participation Rewards in the Q3. This notwithstanding, Entity remained in frequent contact with the AVC Creator; records showed the two interacted via Discord DM and public channels at least twice weekly to discuss NEWDAO Governance and the AVC's work. In some of their communications, Entity gave the AVC Creator feedback on possible modifications to Adaptive Documents concerning the Protocol Scope.\n 
 
