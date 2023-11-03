@@ -3,7 +3,7 @@
 - includes Element Analyses from Week 1
 - I populated the FacilitatorDAO Action Examples Directory with placeholders for WIP data
 
-```
+```json
 {
     "A.1.5.8": {
         "Name": "Aligned Voter Committee misalignment risk management",
